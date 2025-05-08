@@ -11,9 +11,7 @@ Our goal is to create an informative, user-friendly platform that highlights our
 - [Features](#features)  
 - [Technologies Used](#technologies-used)  
 - [Installation](#installation)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)
+
 
 ## Features
 
